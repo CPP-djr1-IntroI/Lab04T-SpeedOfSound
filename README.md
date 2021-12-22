@@ -1,6 +1,6 @@
 ## Intro to C++ I Lab 04
 
-Conversions
+Speed Of Sound
 
 **Date assigned:** 
 
